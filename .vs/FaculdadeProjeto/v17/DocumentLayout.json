@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\faculdadeProjeto\\FaculdadeProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|d:\\faculdadeprojeto\\faculdadeprojeto\\faculdadeprojeto\\cadastro servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|solutionrelative:faculdadeprojeto\\cadastro servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|D:\\faculdadeProjeto\\FaculdadeProjeto\\faculdadeprojeto\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|solutionrelative:faculdadeprojeto\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|D:\\faculdadeProjeto\\FaculdadeProjeto\\faculdadeprojeto\\cadastro servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|solutionrelative:faculdadeprojeto\\cadastro servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|D:\\faculdadeProjeto\\FaculdadeProjeto\\faculdadeprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|solutionrelative:faculdadeprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|D:\\faculdadeProjeto\\FaculdadeProjeto\\faculdadeprojeto\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D18D35B-FA55-4429-8A80-2B19EA7311AE}|FaculdadeProjeto\\FaculdadeProjeto.csproj|solutionrelative:faculdadeprojeto\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "FaculdadeProjeto\\Program.cs",
+              "ToolTip": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\Program.cs",
+              "RelativeToolTip": "FaculdadeProjeto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:06:16.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cadastro Servico.cs",
+              "DocumentMoniker": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\cadastro Servico.cs",
+              "RelativeDocumentMoniker": "FaculdadeProjeto\\cadastro Servico.cs",
+              "ToolTip": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\cadastro Servico.cs",
+              "RelativeToolTip": "FaculdadeProjeto\\cadastro Servico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:03:31.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cadastro Servico.cs [Design]",
+              "DocumentMoniker": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\cadastro Servico.cs",
+              "RelativeDocumentMoniker": "FaculdadeProjeto\\cadastro Servico.cs",
+              "ToolTip": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\cadastro Servico.cs [Design]",
+              "RelativeToolTip": "FaculdadeProjeto\\cadastro Servico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:48:04.393Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelaLogin.cs",
+              "DocumentMoniker": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\TelaLogin.cs",
+              "RelativeDocumentMoniker": "FaculdadeProjeto\\TelaLogin.cs",
+              "ToolTip": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\TelaLogin.cs",
+              "RelativeToolTip": "FaculdadeProjeto\\TelaLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:18:09.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelaLogin.cs [Design]",
+              "DocumentMoniker": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\TelaLogin.cs",
+              "RelativeDocumentMoniker": "FaculdadeProjeto\\TelaLogin.cs",
+              "ToolTip": "D:\\faculdadeProjeto\\FaculdadeProjeto\\FaculdadeProjeto\\TelaLogin.cs [Design]",
+              "RelativeToolTip": "FaculdadeProjeto\\TelaLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:06:26.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
